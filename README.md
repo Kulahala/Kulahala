@@ -31,8 +31,8 @@ Unreal Engine / Gameplay C++ 开发者。热衷于游戏 3C 系统、动作战�
 * 独立开发并重构了经典扫雷、2048 等游戏，实现了统一的场景管理、输入分发和触控渲染优化。
 
 ### 🌐 [Smoke-VueProject](https://github.com/Kulahala/Smoke-VueProject)
-> **基于 Vue3/Vite 构建的个人作品展示站。**
-* 支持双语国际化，集成 CMS 动态发布内容，优化 SEO 指标并实现基于 Netlify 的自动化 CI/CD 部署。
+> **基于 Vue3/Vite 构建的 toB 跨境商贸静态产品展示站。**
+* 支持响应式设计与深色模式，针对企业展示场景进行 SEO 深度优化，并实现基于 Netlify 的自动化 CI/CD 部署。
 
 ---
 
